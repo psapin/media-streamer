@@ -1,0 +1,4 @@
+@MEDIA_DIR /Users/patrick/Music
+@DEVICE_NAME Patrick's MacBook Air
+@SOCKET_PORT 1234
+@STREAM_PORT 1235
